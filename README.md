@@ -1,4 +1,4 @@
-# Reinforcement Learning Basics Recap (by Taehyoung Kim)
+# Reinforcement Learning Basics Recap (2023)
 
 This repository serves as a record of the ramping up process before starting my Masters thesis. The primary objective of this repo is to revisit the fundamental concepts of Reinforcement Learning and implement the basic algorithms from scratch.
 
